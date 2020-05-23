@@ -6,3 +6,12 @@ run
 build
 doc/html
 discrete_voronoi.pgm
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles
+CTestTestfile.cmake
+DartConfiguration.tcl
+headers
+libthrust_testframework.a
+thrust.example*
+thrust.test*
